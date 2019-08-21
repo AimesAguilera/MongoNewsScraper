@@ -1,0 +1,14 @@
+body {
+    font-family: Georgia;
+}
+
+.nav-bar {
+    padding: 0;
+    margin: 5px;
+    justify-content: space-between;
+}
+.nav-bar .nav-item {
+    margin: 10px;
+    padding: 0;
+    justify-content: space-between
+}
